@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Logo" src="https://github.com/yashitanamdeo/yashitanamdeo.github.io/blob/source/src/images/logo.png" width="100" />
+
 </div>
 <h1 align="center">
   Portfolio Website Version 1
