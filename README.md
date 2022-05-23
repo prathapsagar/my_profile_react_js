@@ -5,7 +5,7 @@
   Portfolio Website Version 1
 </h1>
 <p align="center">
-  The first iteration of <a href="https://yashitanamdeo.github.io/" target="_blank">Prathap Sagar S's</a> portfolio built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://pages.github.com/" target="_blank">Github Pages</a>
+  The first iteration of <a href="https://628bd22a76b86d00b116ba26--sage-valkyrie-7f9ff2.netlify.app/" target="_blank">Prathap Sagar S's</a> portfolio built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://pages.github.com/" target="_blank">Github Pages</a>
 </p>
 
 
