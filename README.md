@@ -8,9 +8,7 @@
   The first iteration of <a href="https://yashitanamdeo.github.io/" target="_blank">Prathap Sagar S's</a> portfolio built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://pages.github.com/" target="_blank">Github Pages</a>
 </p>
 
-<div align="center">
-  <img alt="Demo" src="https://github.com/yashitanamdeo/yashitanamdeo.github.io/blob/source/src/images/demo.png" />
-</div>
+
 
 ### TL;DR
 
