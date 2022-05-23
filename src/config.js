@@ -11,7 +11,7 @@ module.exports = {
   name: 'Prathap Sagar S',
   location: 'Bangalore, India',
   email: 'prathapsagar0306@gmail.com',
-  github: 'https://github.com/yashitanamdeo',
+  github: 'https://github.com/prathapsagar',
   twitterHandle: '@',
   socialMedia: [
     {
